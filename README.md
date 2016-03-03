@@ -8,3 +8,4 @@
 3. [self and meta class](http://stackoverflow.com/questions/15906130/object-getclassobj-and-obj-class-give-different-results)
 4. [self and meta class2](http://www.jianshu.com/p/ae5c32708bc6)
 5. [Objective-C Runtime](http://tech.glowing.com/cn/objective-c-runtime/)
+6. [NSObject](http://blog.csdn.net/uxyheaven/article/details/38120335)
